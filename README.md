@@ -7,7 +7,7 @@
 
 ## 📸 Anteprima
 
-(<img width="2354" height="1364" alt="image" src="https://github.com/user-attachments/assets/bebca984-4bee-4a7f-b430-78b7446a0b2b" />
+<img width="2354" height="1364" alt="image" src="https://github.com/user-attachments/assets/bebca984-4bee-4a7f-b430-78b7446a0b2b" />
 
 
 ---
