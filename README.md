@@ -2,5 +2,5 @@
 
 ## 🧩 Architettura
 
-- 🖥️ **Frontend** → [Apri repo](https://github.com/tuo-username/LocalProFE)
-- ⚙️ **Backend** → [Apri repo](https://github.com/tuo-username/LocalProBE)
+- 🖥️ **Frontend** → [Apri repo](https://github.com/portanovadomenico-dot/localproFE)
+- ⚙️ **Backend** → [Apri repo](https://github.com/portanovadomenico-dot/localproBE)
